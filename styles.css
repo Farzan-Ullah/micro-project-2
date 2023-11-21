@@ -210,6 +210,7 @@ textarea {
     margin-top: 10%;
     margin-left: 77%;
     cursor: pointer;
+    border: none;
 }
 
 .basic-info {
