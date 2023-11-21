@@ -71,6 +71,7 @@ input.search {
     padding: 20px;
     width: 15vw;
     margin-bottom: 10x;
+    outline: none;
 }
 
 #bars {
