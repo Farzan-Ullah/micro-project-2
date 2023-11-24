@@ -87,7 +87,6 @@ input.search {
 }
 
 #textarea1 {
-
     border-radius: 1em;
     border: none;
     box-shadow: 2px 2px 10px #b9aece inset;
@@ -116,9 +115,7 @@ input.search {
     display: flex;
     justify-content: space-evenly;
     color: #FFFFFF;
-    /* margin: 100px; */
     margin-top: 70px;
-
 }
 
 .card1 {
